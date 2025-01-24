@@ -2,7 +2,6 @@
 
 
 
-
 -- Improving Query Performance
 
 EXPLAIN ANALYZE
